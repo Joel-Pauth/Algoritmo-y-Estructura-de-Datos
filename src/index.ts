@@ -1,4 +1,4 @@
-console.log("Proyecto de asignacion Agoritmo y Estructura de Datos") 
+console.log("Proyecto de asignacion Algoritmo y Estructura de Datos") 
 
 //1.Ejercicio Marcas
 export const marcas = [
